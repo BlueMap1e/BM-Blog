@@ -3,7 +3,7 @@ title: Hello World
 published: 2026-10-09
 description: 'First Blog'
 image: ''
-tags: []
+tags: [C++]
 category: ''
 draft: false 
 lang: 'zh-CN'
