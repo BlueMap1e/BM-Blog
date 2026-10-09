@@ -11,7 +11,7 @@ lang: 'zh-CN'
 
 ## Hello World
 
-Hello, world.
+Hello, world. This is my first post.
 
 ```cpp
 #include <iostream>
@@ -21,5 +21,3 @@ int main(){
     return 0;
 }
 ```
-
-[MCMod.cn](https://www.mcmod.cn)
